@@ -1,7 +1,7 @@
 {
   "name": "Metaverse Club S - Elite Pass",
   "description": "This exclusive NFT represents membership in the most elite Metaverse club. Holders gain access to VIP events, special in - world areas, and unique networking opportunities. The club is a gathering place for the who's who in the metaverse, where ideas are exchanged, and new digital frontiers are explored.",
-  "image": "https://github.com/longcencen/NFT-Data/blob/main/metadata/image/MetaverseNFT.png",
+  "image": "https://raw.githubusercontent.com/longcencen/NFT-Data/a5dad5915e0a8cf86e891de36b4774d9b87fa58a/metadata/images/MetaverseNFT.png",
   "attributes": [
   {"trait_type": "health", "value": "0"},
   {"trait_type": "power", "value": "0"},
