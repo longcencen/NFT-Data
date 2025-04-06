@@ -1,12 +1,12 @@
-{  
-  "name": "逸测试 #0",  
-  "description": "hi，大家好",  
-  "image": "https://ethereum.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1920&q=75",  
-  "attributes": [  
-    {"trait_type": "health", "value": "19"},  
-    {"trait_type": "power", "value": "681"},  
-    {"trait_type": "magic", "value": "13"},  
-    {"trait_type": "exp", "value": "93"},  
-    {"trait_type": "lv", "value": "A"}  
-  ]  
-}
+{
+  "name": "Metaverse Club S - Elite Pass",
+  "description": "This exclusive NFT represents membership in the most elite Metaverse club. Holders gain access to VIP events, special in - world areas, and unique networking opportunities. The club is a gathering place for the who's who in the metaverse, where ideas are exchanged, and new digital frontiers are explored.",
+  "image": "https://github.com/longcencen/NFT-Data/blob/main/metadata/image/MetaverseNFT.jpg",
+  "attributes": [
+  {"trait_type": "health", "value": "0"},
+  {"trait_type": "power", "value": "0"},
+  {"trait_type": "magic", "value": "0"},
+  {"trait_type": "exp", "value": "0"},
+  {"trait_type": "lv", "value": "S"}
+  ]
+  }
