@@ -1,0 +1,8 @@
+{  
+  "name": "Metaverse Club S - Elite Pass",  
+  "description": "Top tier threshold credentials",  
+  "image": "https://raw.githubusercontent.com/longcencen/NFT-Data/a5dad5915e0a8cf86e891de36b4774d9b87fa58a/metadata/images/MetaverseNFT.png",  
+  "external_link": "https://longcencen.github.io/NFT-document/#/",  
+  "seller_fee_basis_points": 1000,  
+  "fee_recipient": "0xf199B08c0e74b2686E9b12BF879812Bf7469275C"  
+}
